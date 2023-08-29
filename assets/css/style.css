@@ -188,6 +188,16 @@ table p {
   padding-left: 15px;
   padding-right: 15px;
 }
+.banner-hp {
+  margin: auto;
+  text-align: center;
+}
+
+.banner-hp img {
+  width:100%;
+  
+}
+
 @media only screen and (max-width: 1199px) {
   .container {
     max-width: none;
@@ -2546,14 +2556,17 @@ section .container-fluid {
   margin-top: 0;
 }
 .product-item .inner-content .product-info {
-  padding: 26px 18px 28px;
+  padding: 12px 12px 12px;
   text-align: center;
 }
 .product-item .inner-content .product-info .title {
   color: #222;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 1.2;
   margin-bottom: 19px;
+}
+.product-desc {
+  background: #ebddcb;
 }
 .product-item .inner-content .product-info .title a {
   color: #222;

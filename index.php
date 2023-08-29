@@ -1,514 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<?php
+ 
+  include('include/header.php')
 
-    <title>All Machines</title>
-
-    <!--== Favicon ==-->
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
-
-    <!--== Google Fonts ==-->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
-
-    <!--== Bootstrap CSS ==-->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
-    <!--== Headroom CSS ==-->
-    <link href="assets/css/headroom.css" rel="stylesheet" />
-    <!--== Animate CSS ==-->
-    <link href="assets/css/animate.css" rel="stylesheet" />
-    <!--== Font Awesome Icon CSS ==-->
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
-    <!--== Bardy Icon CSS ==-->
-    <link href="assets/css/bardy.icon.css" rel="stylesheet" />
-    <!--== Swiper CSS ==-->
-    <link href="assets/css/swiper.min.css" rel="stylesheet" />
-    <!--== Fancybox Min CSS ==-->
-    <link href="assets/css/fancybox.min.css" rel="stylesheet" />
-    <!--== Slicknav Min CSS ==-->
-    <link href="assets/css/slicknav.css" rel="stylesheet" />
-    <!--== Aos Min CSS ==-->
-    <link href="assets/css/aos.min.css" rel="stylesheet" />
-
-    <!--== Main Style CSS ==-->
-    <link href="assets/css/style.css" rel="stylesheet" />
-
-    <!--[if lt IE 9]>
-    <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-</head>
-
-<body>
-
-<!--wrapper start-->
-<div class="wrapper">
-
-  <!--== Start Preloader Content ==-->
-  <div class="preloader-wrap">
-    <div class="preloader">
-      <span class="dot"></span>
-      <div class="dots">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-    </div>
-  </div>
-  <!--== End Preloader Content ==-->
-
-  <!--== Start Header Wrapper ==-->
-  <header class="header-area header-default sticky-header">
-    <div class="container">
-      <div class="row align-items-center justify-content-between position-relative">
-        <div class="col">
-          <div class="header-logo-area">
-            <a href="index.html">
-              <img class="logo-main" src="assets/img/logo.png" alt="Logo" />
-              <img class="logo d-none" src="assets/img/logo-light.png" alt="Logo" />
-            </a>
-          </div>
-        </div>
-        <div class="col">
-          <div class="header-navigation-area">
-            <ul class="main-menu nav">
-              <li class="has-submenu"><a href="index.html"><span>Home</span></a> </li>
-              <li class="has-submenu "><a href="products.html"><span>Products</span></a> </li>
-              <li class="has-submenu"><a href="about.html"><span>About Us</span></a> </li>
-              <li><a href="contact.html"><span>Contact</span></a></li>
-            </ul>
-          </div>
-        </div>
-       
-      </div>
-    </div>
-  </header>
-  <!--== End Header Wrapper ==-->
-  
+?>
   <main class="main-content">
     <!--== Start Hero Area Wrapper ==-->
-    <section class="home-slider-area">
-      <div class="swiper-container swiper-slide-gap home-slider-container default-slider-container">
-        <div class="swiper-wrapper home-slider-wrapper slider-default">
-          <div class="swiper-slide">
-            <div class="slider-content-area" data-bg-img="assets/img/slider/slider-04.jpg">
-              <div class="container">
-                <div class="row align-items-center">
-                  <div class="col-12">
-                    <div class="slider-content text-end">
-                      <h5 class="sub-title">Food Pouch Batch</h5>
-                      <h2 class="title">Coding Machine</h2>
-                      <a class="btn-slider" href="contact.html">Get a Quote</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="slider-content-area" data-bg-img="assets/img/slider/slider-02.jpg">
-              <div class="container">
-                <div class="row align-items-center">
-                  <div class="col-12">
-                    <div class="slider-content text-left">
-                      <h5 class="sub-title">NEW COLLECTION 2021</h5>
-                      <h2 class="title">The Brighten Up <br>Interior Collection</h2>
-                      <a class="btn-slider" href="contact.html">Shop Now</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="slider-content-area" data-bg-img="assets/img/slider/slider-03.jpg">
-              <div class="container">
-                <div class="row align-items-center">
-                  <div class="col-12">
-                    <div class="slider-content text-right">
-                      <h5 class="sub-title">NEW COLLECTION 2021</h5>
-                      <h2 class="title">The Brighten Up <br>Interior Collection</h2>
-                      <a class="btn-slider" href="contact.html">Shop Now</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="slider-content-area" data-bg-img="assets/img/slider/slider-01.jpg">
-              <div class="container">
-                <div class="row align-items-center">
-                  <div class="col-12">
-                    <div class="slider-content text-end">
-                      <h5 class="sub-title">NEW COLLECTION 2021</h5>
-                      <h2 class="title">The Brighten Up <br>Interior Collection</h2>
-                      <a class="btn-slider" href="contact.html">Shop Now</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <!--== Add Swiper Arrows ==-->
-        <div class="swiper-button-next"><i class="fa fa-angle-right"></i></div>
-        <div class="swiper-button-prev"><i class="fa fa-angle-left"></i></div>
+    <section class="banner-hp">
+      <div class="row">
+        <div class="col-12">
+          <img src="assets/img/banner/banner-tiles.jpg" alt="">
+        </div>
       </div>
     </section>
     <!--== End Hero Area Wrapper ==-->
-    <!--== Start Product New Arrival ==-->
-    <section class="product-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 m-auto">
-            <div class="section-title text-center">
-              <h2 class="title">New Arrivals</h2>
-              <div class="desc">
-                <p>Some of our customers say that they trust us and buy our product without any hesitation because they believe us and always happy to buy our product.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-12">
-            <div class="swiper-container swiper-nav swiper-slide-gap product-slider-container">
-              <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                  <!--== Start Shop Item ==-->
-                  <div class="product-item">
-                    <div class="inner-content">
-                      <div class="product-thumb">
-                        <a href="products.html">
-                          <img class="w-100" src="assets/img/shop/1.png" alt="Image-HasTech">
-                        </a>
-                      </div>
-                      <div class="product-desc">
-                        <div class="product-info">
-                          <h4 class="title"><a href="products.html">Coding Machine High Speed</a></h4>
-                        </div>
-                      </div>
-                    </div>
-                    
-                  </div>
-                  
-                  <!--== End Shop Item ==-->
-                </div>
-               
-                  <div class="swiper-slide">
-                    <!--== Start Shop Item ==-->
-                    <div class="product-item">
-                      <div class="inner-content">
-                        <div class="product-thumb">
-                          <a href="products.html">
-                            <img class="w-100" src="assets/img/shop/2.png" alt="Image-HasTech">
-                          </a>
-                          <div class="product-action d-none">
-                            <div class="addto-wrap">
-                            
-                              <a class="add-quick-view" href="javascript:void(0);">
-                                <span class="icon">
-                                  <i class="bardy bardy-quick-view"></i>
-                                  <i class="hover-icon bardy bardy-quick-view"></i>
-                                </span>
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-desc">
-                          <div class="product-info">
-                            <h4 class="title"><a href="products.html">Pad printer</a></h4>
-                      
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--== End Shop Item ==-->
-                  </div>
-                  <div class="swiper-slide">
-                    <!--== Start Shop Item ==-->
-                    <div class="product-item">
-                      <div class="inner-content">
-                        <div class="product-thumb">
-                          <a href="products.html">
-                            <img class="w-100" src="assets/img/shop/3.png" alt="Image-HasTech">
-                          </a>
-                          <div class="product-action d-none">
-                            <div class="addto-wrap">
-                            
-                              <a class="add-quick-view" href="javascript:void(0);">
-                                <span class="icon">
-                                  <i class="bardy bardy-quick-view"></i>
-                                  <i class="hover-icon bardy bardy-quick-view"></i>
-                                </span>
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-desc">
-                          <div class="product-info">
-                            <h4 class="title"><a href="products.html">Manual Batch Coding Machine</a></h4>
-                      
-                          
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--== End Shop Item ==-->
-                  </div>
-                  <div class="swiper-slide">
-                    <!--== Start Shop Item ==-->
-                    <div class="product-item">
-                      <div class="inner-content">
-                        <div class="product-thumb">
-                          <a href="products.html">
-                            <img class="w-100" src="assets/img/shop/4.png" alt="Image-HasTech">
-                          </a>
-                          <div class="product-action d-none">
-                            <div class="addto-wrap">
-                            
-                              <a class="add-quick-view" href="javascript:void(0);">
-                                <span class="icon">
-                                  <i class="bardy bardy-quick-view"></i>
-                                  <i class="hover-icon bardy bardy-quick-view"></i>
-                                </span>
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-desc">
-                          <div class="product-info">
-                            <h4 class="title"><a href="products.html">Automatic Coading Machine</a></h4>
-                      
-                          
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--== End Shop Item ==-->
-                  </div>
-                  <div class="swiper-slide">
-                    <!--== Start Shop Item ==-->
-                    <div class="product-item">
-                      <div class="inner-content">
-                        <div class="product-thumb">
-                          <a href="products.html">
-                            <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
-                          </a>
-                          <div class="product-action d-none">
-                            <div class="addto-wrap">
-                            
-                              <a class="add-quick-view" href="javascript:void(0);">
-                                <span class="icon">
-                                  <i class="bardy bardy-quick-view"></i>
-                                  <i class="hover-icon bardy bardy-quick-view"></i>
-                                </span>
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-desc">
-                          <div class="product-info">
-                            <h4 class="title"><a href="products.html">Fusing Machine</a></h4>
-                      
-                          
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--== End Shop Item ==-->
-                  </div>
-                  <div class="swiper-slide">
-                    <!--== Start Shop Item ==-->
-                    <div class="product-item">
-                      <div class="inner-content">
-                        <div class="product-thumb">
-                          <a href="products.html">
-                            <img class="w-100" src="assets/img/shop/6.png" alt="Image-HasTech">
-                          </a>
-                          <div class="product-action d-none">
-                            <div class="addto-wrap">
-                            
-                              <a class="add-quick-view" href="javascript:void(0);">
-                                <span class="icon">
-                                  <i class="bardy bardy-quick-view"></i>
-                                  <i class="hover-icon bardy bardy-quick-view"></i>
-                                </span>
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-desc">
-                          <div class="product-info">
-                            <h4 class="title"><a href="products.html">Mug Fusing Machine</a></h4>
-                      
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--== End Shop Item ==-->
-                  </div>
-                  <div class="swiper-slide">
-                    <!--== Start Shop Item ==-->
-                    <div class="product-item">
-                      <div class="inner-content">
-                        <div class="product-thumb">
-                          <a href="products.html">
-                            <img class="w-100" src="assets/img/shop/7.png" alt="Image-HasTech">
-                          </a>
-                          <div class="product-action d-none">
-                            <div class="addto-wrap">
-                            
-                              <a class="add-quick-view" href="javascript:void(0);">
-                                <span class="icon">
-                                  <i class="bardy bardy-quick-view"></i>
-                                  <i class="hover-icon bardy bardy-quick-view"></i>
-                                </span>
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-desc">
-                          <div class="product-info">
-                            <h4 class="title"><a href="products.html">Cling Wrapping </a></h4>
-                      
-                          
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--== End Shop Item ==-->
-                  </div>
-                  <div class="swiper-slide">
-                    <!--== Start Shop Item ==-->
-                    <div class="product-item">
-                      <div class="inner-content">
-                        <div class="product-thumb">
-                          <a href="products.html">
-                            <img class="w-100" src="assets/img/shop/8.png" alt="Image-HasTech">
-                          </a>
-                          <div class="product-action d-none">
-                            <div class="addto-wrap">
-                            
-                              <a class="add-quick-view" href="javascript:void(0);">
-                                <span class="icon">
-                                  <i class="bardy bardy-quick-view"></i>
-                                  <i class="hover-icon bardy bardy-quick-view"></i>
-                                </span>
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-desc">
-                          <div class="product-info">
-                            <h4 class="title"><a href="products.html">Bag Closer Machine</a></h4>
-                      
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--== End Shop Item ==-->
-                  </div>
-                  <div class="swiper-slide">
-                    <!--== Start Shop Item ==-->
-                    <div class="product-item">
-                      <div class="inner-content">
-                        <div class="product-thumb">
-                          <a href="products.html">
-                            <img class="w-100" src="assets/img/shop/9.png" alt="Image-HasTech">
-                          </a>
-                          <div class="product-action d-none">
-                            <div class="addto-wrap">
-                            
-                              <a class="add-quick-view" href="javascript:void(0);">
-                                <span class="icon">
-                                  <i class="bardy bardy-quick-view"></i>
-                                  <i class="hover-icon bardy bardy-quick-view"></i>
-                                </span>
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-desc">
-                          <div class="product-info">
-                            <h4 class="title"><a href="products.html">Hight Speed Water Pouch </a></h4>
-                      
-                          
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--== End Shop Item ==-->
-                  </div>
-                  <div class="swiper-slide">
-                    <!--== Start Shop Item ==-->
-                    <div class="product-item">
-                      <div class="inner-content">
-                        <div class="product-thumb">
-                          <a href="products.html">
-                            <img class="w-100" src="assets/img/shop/10.png" alt="Image-HasTech">
-                          </a>
-                          <div class="product-action d-none">
-                            <div class="addto-wrap">
-                            
-                              <a class="add-quick-view" href="javascript:void(0);">
-                                <span class="icon">
-                                  <i class="bardy bardy-quick-view"></i>
-                                  <i class="hover-icon bardy bardy-quick-view"></i>
-                                </span>
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-desc">
-                          <div class="product-info">
-                            <h4 class="title"><a href="products.html">Snack & Powder</a></h4>
-                      
-                          
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--== End Shop Item ==-->
-                  </div>
-                
-              </div>
-
-              <!--== Add Swiper navigation Buttons ==-->
-              <div class="swiper-button swiper-button-prev"><i class="fa fa-angle-left"></i></div>
-              <div class="swiper-button swiper-button-next"><i class="fa fa-angle-right"></i></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--== End Product Area Wrapper ==-->
-
-    <!--== Start Single Banner Wrapper ==-->
-    <section>
-      <div class="container pt--0 pb--0">
-        <div class="row">
-          <div class="col-12">
-            <!--== Start Single Banner Item ==-->
-            <div class="single-banner-image" data-aos="fade-right">
-              <a href="contact.html">
-                <img class="w-100" src="assets/img/shop/banner/1.jpg" alt="Image-HasTech">
-              </a>
-            </div>
-            <!--== End Single Banner Item ==-->
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--== End Single Banner Wrapper ==-->
-
-
+  
+    
     <!--== Start Product Area Wrapper ==-->
-    <section class="product-area product-list-area">
+    <section class="product-area product-list-area  bg-theme-color3">
       <div class="container">
         <div class="row">
           <div class="col-lg-6 m-auto">
@@ -545,7 +54,7 @@
                             <div class="product-item">
                               <div class="inner-content">
                                 <div class="product-thumb">
-                                  <a href="products.html">
+                                  <a href="products.php">
                                     <img class="w-100" src="assets/img/shop/1.png" alt="Image-HasTech">
                                   </a>
                                   <div class="product-action d-none">
@@ -562,7 +71,7 @@
                                 </div>
                                 <div class="product-desc">
                                   <div class="product-info">
-                                    <h4 class="title"><a href="products.html">1. New and sale badge product</a></h4>
+                                    <h4 class="title"><a href="products.php"> New and sale badge product</a></h4>
                               
                                   </div>
                                 </div>
@@ -574,7 +83,7 @@
                             <div class="product-item">
                               <div class="inner-content">
                                 <div class="product-thumb">
-                                  <a href="products.html">
+                                  <a href="products.php">
                                     <img class="w-100" src="assets/img/shop/2.png" alt="Image-HasTech">
                                   </a>
                                   <div class="product-action d-none">
@@ -591,7 +100,7 @@
                                 </div>
                                 <div class="product-desc">
                                   <div class="product-info">
-                                    <h4 class="title"><a href="products.html">2. New badge product</a></h4>
+                                    <h4 class="title"><a href="products.php"> New badge product</a></h4>
                                   
                                   </div>
                                 </div>
@@ -604,7 +113,7 @@
                             <div class="product-item">
                               <div class="inner-content">
                                 <div class="product-thumb">
-                                  <a href="products.html">
+                                  <a href="products.php">
                                     <img class="w-100" src="assets/img/shop/3.png" alt="Image-HasTech">
                                   </a>
                                   <div class="product-action d-none">
@@ -621,7 +130,7 @@
                                 </div>
                                 <div class="product-desc">
                                   <div class="product-info">
-                                    <h4 class="title"><a href="products.html">3. Variable product</a></h4>
+                                    <h4 class="title"><a href="products.php"> Variable product</a></h4>
                               
                                    
                                   </div>
@@ -634,7 +143,7 @@
                             <div class="product-item">
                               <div class="inner-content">
                                 <div class="product-thumb">
-                                  <a href="products.html">
+                                  <a href="products.php">
                                     <img class="w-100" src="assets/img/shop/4.png" alt="Image-HasTech">
                                   </a>
                                   <div class="product-action d-none">
@@ -651,7 +160,7 @@
                                 </div>
                                 <div class="product-desc">
                                   <div class="product-info">
-                                    <h4 class="title"><a href="products.html">4. Soldout product</a></h4>
+                                    <h4 class="title"><a href="products.php"> Soldout product</a></h4>
                               
                                   </div>
                                 </div>
@@ -664,7 +173,7 @@
                             <div class="product-item">
                               <div class="inner-content">
                                 <div class="product-thumb">
-                                  <a href="products.html">
+                                  <a href="products.php">
                                     <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
                                   </a>
                                   <div class="product-action d-none">
@@ -681,7 +190,7 @@
                                 </div>
                                 <div class="product-desc">
                                   <div class="product-info">
-                                    <h4 class="title"><a href="products.html">5. Simple product</a></h4>
+                                    <h4 class="title"><a href="products.php">Simple product</a></h4>
                               
                                   </div>
                                 </div>
@@ -693,7 +202,7 @@
                             <div class="product-item">
                               <div class="inner-content">
                                 <div class="product-thumb">
-                                  <a href="products.html">
+                                  <a href="products.php">
                                     <img class="w-100" src="assets/img/shop/6.png" alt="Image-HasTech">
                                   </a>
                                   <div class="product-action d-none">
@@ -710,7 +219,7 @@
                                 </div>
                                 <div class="product-desc">
                                   <div class="product-info">
-                                    <h4 class="title"><a href="products.html">6. Variable with soldout product</a></h4>
+                                    <h4 class="title"><a href="products.php">Variable with soldout product</a></h4>
                                  
                                   </div>
                                 </div>
@@ -723,7 +232,7 @@
                             <div class="product-item">
                               <div class="inner-content">
                                 <div class="product-thumb">
-                                  <a href="products.html">
+                                  <a href="products.php">
                                     <img class="w-100" src="assets/img/shop/7.png" alt="Image-HasTech">
                                   </a>
                                   <div class="product-action d-none">
@@ -740,7 +249,7 @@
                                 </div>
                                 <div class="product-desc">
                                   <div class="product-info">
-                                    <h4 class="title"><a href="products.html">7. Sample affiliate product</a></h4>
+                                    <h4 class="title"><a href="products.php">Sample affiliate product</a></h4>
                           
                                   </div>
                                 </div>
@@ -752,7 +261,7 @@
                             <div class="product-item">
                               <div class="inner-content">
                                 <div class="product-thumb">
-                                  <a href="products.html">
+                                  <a href="products.php">
                                     <img class="w-100" src="assets/img/shop/8.png" alt="Image-HasTech">
                                   </a>
                                   <div class="product-action d-none">
@@ -769,7 +278,7 @@
                                 </div>
                                 <div class="product-desc">
                                   <div class="product-info">
-                                    <h4 class="title"><a href="products.html">8. Countdown product</a></h4>
+                                    <h4 class="title"><a href="products.php">Countdown product</a></h4>
                             
                                   </div>
                                 </div>
@@ -782,7 +291,7 @@
                             <div class="product-item">
                               <div class="inner-content">
                                 <div class="product-thumb">
-                                  <a href="products.html">
+                                  <a href="products.php">
                                     <img class="w-100" src="assets/img/shop/9.png" alt="Image-HasTech">
                                   </a>
                                   <div class="product-action d-none">
@@ -799,7 +308,7 @@
                                 </div>
                                 <div class="product-desc">
                                   <div class="product-info">
-                                    <h4 class="title"><a href="products.html">9. Without shortcode product</a></h4>
+                                    <h4 class="title"><a href="products.php">Without shortcode product</a></h4>
                              
                                   </div>
                                 </div>
@@ -811,7 +320,7 @@
                             <div class="product-item">
                               <div class="inner-content">
                                 <div class="product-thumb">
-                                  <a href="products.html">
+                                  <a href="products.php">
                                     <img class="w-100" src="assets/img/shop/10.png" alt="Image-HasTech">
                                   </a>
                                   <div class="product-action d-none">
@@ -828,7 +337,7 @@
                                 </div>
                                 <div class="product-desc">
                                   <div class="product-info">
-                                    <h4 class="title"><a href="products.html">11. Product with video</a></h4>
+                                    <h4 class="title"><a href="products.php">Product with video</a></h4>
                                
                                   </div>
                                 </div>
@@ -849,13 +358,13 @@
                   </div>
                 </div>
                 <div class="tab-pane fade" id="chair" role="tabpanel" aria-labelledby="chair-tab">
-                  <div class="row">
+                <div class="row">
                     <div class="col-sm-6 col-lg-4 col-xl-3">
                       <!--== Start Shop Item ==-->
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/1.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -881,22 +390,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">1. New and sale badge product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 110.00 </span>
-                                <span class="price-old">Tk 130.00</span>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -905,7 +399,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/2.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -931,21 +425,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">2. New badge product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 80.00 </span>
-                              </div>
-                            </div>
-                          </div>
+                        
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -955,7 +435,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/3.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -981,22 +461,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">3. Variable product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 40.00 </span>
-                                <span class="price-old">Tk 85.00</span>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1005,7 +470,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/4.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1031,22 +496,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">4. Soldout product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 19.00 </span>
-                                <span class="price-old">Tk 29.00</span>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1056,7 +506,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1082,21 +532,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">5. Simple product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 50.00</span>
-                              </div>
-                            </div>
-                          </div>
+                         
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1105,7 +541,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/6.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1131,22 +567,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">6. Variable with soldout product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 55.00</span>
-                                <span class="price-old">Tk 75.00</span>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1156,23 +577,11 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/7.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
                               <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
                                 <a class="add-quick-view" href="javascript:void(0);">
                                   <span class="icon">
                                     <i class="bardy bardy-quick-view"></i>
@@ -1182,21 +591,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">7. Sample affiliate product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 29.00</span>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1205,7 +600,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/8.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1230,13 +625,9 @@
                                 </a>
                               </div>
                             </div>
+                            
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">8. Countdown product</a></h4>
                           
-                            </div>
-                          </div>
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1250,7 +641,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/1.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1276,22 +667,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">1. New and sale badge product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 110.00 </span>
-                                <span class="price-old">Tk 130.00</span>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1300,7 +676,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/2.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1326,21 +702,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">2. New badge product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 80.00 </span>
-                              </div>
-                            </div>
-                          </div>
+                        
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1350,7 +712,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/3.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1376,22 +738,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">3. Variable product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 40.00 </span>
-                                <span class="price-old">Tk 85.00</span>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1400,7 +747,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/4.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1426,22 +773,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">4. Soldout product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 19.00 </span>
-                                <span class="price-old">Tk 29.00</span>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1451,7 +783,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1477,21 +809,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">5. Simple product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 50.00</span>
-                              </div>
-                            </div>
-                          </div>
+                         
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1500,7 +818,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/6.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1526,22 +844,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">6. Variable with soldout product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 55.00</span>
-                                <span class="price-old">Tk 75.00</span>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1551,7 +854,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/7.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1565,21 +868,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">7. Sample affiliate product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 29.00</span>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1588,7 +877,7 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="products.html">
+                            <a href="products.php">
                               <img class="w-100" src="assets/img/shop/8.png" alt="Image-HasTech">
                             </a>
                             <div class="product-action d-none">
@@ -1613,24 +902,9 @@
                                 </a>
                               </div>
                             </div>
-                            <div class="ht-countdown ht-countdown-style" data-date="4/24/2022"></div>
+                            
                           </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="products.html">8. Countdown product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 39.00 </span>
-                                <span class="price-old">Tk 60.00</span>
-                              </div>
-                            </div>
-                          </div>
+                          
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
@@ -1644,6 +918,26 @@
       </div>
     </section>
     <!--== End Product Area Wrapper ==-->
+
+
+    <!--== Start Single Banner Wrapper ==-->
+    <section>
+      <div class="container pt--0 pb--0">
+        <div class="row">
+          <div class="col-12">
+            <!--== Start Single Banner Item ==-->
+            <div class="single-banner-image" data-aos="fade-right">
+              <a href="contact.html">
+                <img class="w-100" src="assets/img/shop/banner/1.jpg" alt="Image-HasTech">
+              </a>
+            </div>
+            <!--== End Single Banner Item ==-->
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--== End Single Banner Wrapper ==-->
+
 
     <!--== Start Divider Area Wrapper ==-->
     <section class="divider-area divider-offer-area bg-color-222">
@@ -1726,201 +1020,8 @@
     <!--== End Feature Area Wrapper ==-->
   </main>
 
-  <!--== Start Footer Area Wrapper ==-->
-  <footer class="footer-area bg-color-222">
-    <div class="footer-top-area">
-      <div class="container">
-        <div class="footer-widget-wrap row">
-          <div class="col">
-            <!--== Start widget Item ==-->
-            <div class="widget-item">
-              <p> <strong>
-                Showroom: </strong><br>
-                1309, 1st Floor, Pan Mandi, Sadar Bazar, Delhi - 110006
-              </p>
-              <p> <strong> Service Center:</strong> <br>
-                Shop No. 1416, Street Chulhe Wali, Pan Mandi, Sadar Bazar, Delhi - 110006
-                </p>
-              <p> <strong>Mobile: </strong> <br> 9873786112, 9210043327, 9210043326, 9873461112</p>
-            </div>
-            <!--== End widget Item ==-->
-          </div>
+  <?php 
 
-          <div class="col">
-            <!--== Start widget Item ==-->
-            <div class="widget-item">
-              <h4 class="widget-title">Quick Link</h4>
-              <div class="widget-menu-wrap">
-                <ul class="nav-menu">
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="products.html">Products</a></li>
-                  <li><a href="about.html">About US</a></li>
-                  <li><a href="contact.html">Contact Us</a></li>
-        
-                </ul>
-              </div>
-            </div>
-            <!--== End widget Item ==-->
-          </div>
+include('include/footer.php');
 
-
-
-          <div class="col">
-            <!--== Start widget Item ==-->
-            <div class="widget-item">
-              <h4 class="widget-title">Follow us</h4>
-              <div class="widget-menu-wrap">
-                <ul class="nav-menu">
-                  <li><a href="#/">Facebook</a></li>
-                  <li><a href="#/">Twitter</a></li>
-                  <li><a href="#/">Instagram</a></li>
-                </ul>
-              </div>
-            </div>
-            <!--== End widget Item ==-->
-          </div>
-        </div>
-      </div>
-    </div>
-    <!--== Start Footer Bottom ==-->
-    <div class="footer-bottom">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6">
-            <p class="copyright">© 2021, <span>Abdul Electronics</span> </p>
-          </div>
-          <!-- <div class="col-lg-6">
-            <div class="payment-method">
-              <img src="assets/img/icons/payment.webp" alt="Image-HasTech">
-            </div>
-          </div> -->
-        </div>
-      </div>
-    </div>
-    <!--== End Footer Bottom ==-->
-  </footer>
-  <!--== End Footer Area Wrapper ==-->
-
-  <!--== Scroll Top Button ==-->
-  <div id="scroll-to-top" class="scroll-to-top"><span class="fa fa-angle-up"></span></div>
-
-  <!--== Start Quick View Menu Modal ==-->
-  <aside class="product-quick-view-modal">
-    <div class="product-quick-view-inner">
-      <div class="product-quick-view-content">
-        <button type="button" class="btn-close">
-          <span class="close-icon"><i class="fa fa-close"></i></span>
-        </button>
-        <div class="row">
-          <div class="col-lg-6 col-md-6 col-12">
-            <div class="thumb">
-              <img src="assets/img/shop/quick-view1.png" alt="Alan-Shop">
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-6 col-12">
-            <div class="content">
-              <h4 class="title">3. Variable product</h4>
-              <div class="prices">
-                <del class="price-old">$85.00</del>
-                <span class="price">$70.00</span>
-              </div>
-              <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,</p>
-              <div class="quick-view-select">
-                <div class="quick-view-select-item">
-                  <label for="forSize" class="form-label">Size:</label>
-                  <select class="form-select" id="forSize" required>
-                    <option selected value="">s</option>
-                    <option>m</option>
-                    <option>l</option>
-                    <option>xl</option>
-                  </select>
-                </div>
-                <div class="quick-view-select-item">
-                  <label for="forColor" class="form-label">Color:</label>
-                  <select class="form-select" id="forColor" required>
-                    <option selected value="">red</option>
-                    <option>green</option>
-                    <option>blue</option>
-                    <option>yellow</option>
-                    <option>white</option>
-                  </select>
-                </div>
-              </div>
-              <div class="action-top">
-                <div class="pro-qty">
-                  <input type="text" id="quantity2" title="Quantity" value="1" />
-                </div>
-                <button class="btn btn-black">Add to cart</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="canvas-overlay"></div>
-  </aside>
-  <!--== End Quick View Menu ==-->
-
-  <!--== Start Side Menu ==-->
-  <aside class="off-canvas-wrapper">
-    <div class="off-canvas-inner">
-      <div class="off-canvas-overlay"></div>
-      <!-- Start Off Canvas Content Wrapper -->
-      <div class="off-canvas-content">
-        <!-- Off Canvas Header -->
-        <div class="off-canvas-header">
-          <div class="close-action">
-            <button class="btn-menu-close">menu <i class="fa fa-chevron-left"></i></button>
-          </div>
-        </div>
-
-        <div class="off-canvas-item">
-          <!-- Start Mobile Menu Wrapper -->
-          <div class="res-mobile-menu menu-active-one">
-            <!-- Note Content Auto Generate By Jquery From Main Menu -->
-          </div>
-          <!-- End Mobile Menu Wrapper -->
-        </div>
-      </div>
-      <!-- End Off Canvas Content Wrapper -->
-    </div>
-  </aside>
-  <!--== End Side Menu ==-->
-</div>
-
-<h1>Testing for main</h1>
-<!--=======================Javascript============================-->
-
-<!--=== jQuery Modernizr Min Js ===-->
-<script src="assets/js/modernizr.js"></script>
-<!--=== jQuery Min Js ===-->
-<script src="assets/js/jquery-main.js"></script>
-<!--=== jQuery Migration Min Js ===-->
-<script src="assets/js/jquery-migrate.js"></script>
-<!--=== jQuery Popper Min Js ===-->
-<script src="assets/js/popper.min.js"></script>
-<!--=== jQuery Bootstrap Min Js ===-->
-<script src="assets/js/bootstrap.min.js"></script>
-<!--=== jQuery Appear Js ===-->
-<script src="assets/js/jquery.appear.js"></script>
-<!--=== jQuery Headroom Min Js ===-->
-<script src="assets/js/headroom.min.js"></script>
-<!--=== jQuery Swiper Min Js ===-->
-<script src="assets/js/swiper.min.js"></script>
-<!--=== jQuery Fancybox Min Js ===-->
-<script src="assets/js/fancybox.min.js"></script>
-<!--=== jQuery Slick Nav Js ===-->
-<script src="assets/js/slicknav.js"></script>
-<!--=== jQuery Waypoint Js ===-->
-<script src="assets/js/waypoint.js"></script>
-<!--=== jQuery Aos Min Js ===-->
-<script src="assets/js/aos.min.js"></script>
-<!--=== jQuery Countdown Js ===-->
-<script src="assets/js/countdown.js"></script>
-
-<!--=== jQuery Custom Js ===-->
-<script type="javascript" src="assets/js/products-structure.js"></script>
-<script src="assets/js/custom.js"></script>
-
-</body>
-</html>
+?> 
