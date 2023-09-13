@@ -5,14 +5,58 @@
 ?>
   <main class="main-content">
     <!--== Start Hero Area Wrapper ==-->
-
-    <section class="banner-hp">
-      <div class="row">
-        <div class="col-12">
-          <img src="assets/img/banner/banner-tiles.jpg" alt="">
+    <section class="home-slider-area">
+      <div class="swiper-container swiper-slide-gap home-slider-container default-slider-container">
+        <div class="swiper-wrapper home-slider-wrapper slider-default">
+          <div class="swiper-slide">
+            <div class="slider-content-area" data-bg-img="assets/img/slider/slider-05.jpg">
+            
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="slider-content-area" data-bg-img="assets/img/slider/slider-02.jpg">
+              <div class="container">
+                <div class="row align-items-center">
+                  <div class="col-12">
+                    <div class="slider-content text-left">
+                      <h5 class="sub-title">New Machinery</h5>
+                      <h2 class="title">Pnematic Pouch </h2>
+                    <a class="btn-slider" href="contact.php">Quote</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="slider-content-area" data-bg-img="assets/img/slider/slider-01.jpg">
+             
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="slider-content-area" data-bg-img="assets/img/slider/slider-03.jpg">
+              <div class="container">
+                <div class="row align-items-center">
+                  <div class="col-12">
+                    <div class="slider-content text-right">
+                      <h5 class="sub-title">NEW COLLECTION 2021</h5>
+                      <h2 class="title">The Brighten Up <br>Interior Collection</h2>
+                      <a class="btn-slider" href="contact.php">Shop Now</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+         
         </div>
+
+        <!--== Add Swiper Arrows ==-->
+        <div class="swiper-button-next"><i class="fa fa-angle-right"></i></div>
+        <div class="swiper-button-prev"><i class="fa fa-angle-left"></i></div>
       </div>
     </section>
+   
     <!--== End Hero Area Wrapper ==-->
   
     
@@ -31,887 +75,222 @@
         </div>
         <div class="row">
           <div class="col-12">
-            <div class="product-category-tab-wrap">
-              <ul data-aos="fade-down" class="nav nav-tabs product-category-nav justify-content-center" id="myTab" role="tablist">
-                <li class="nav-item" role="presentation">
-                  <button class="nav-link active" id="featured-tab" data-bs-toggle="tab" data-bs-target="#featured" type="button" role="tab" aria-controls="featured" aria-selected="true">All Products</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="chair-tab" data-bs-toggle="tab" data-bs-target="#chair" type="button" role="tab" aria-controls="chair" aria-selected="false">Coding Machine</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="sofa-tab" data-bs-toggle="tab" data-bs-target="#sofa" type="button" role="tab" aria-controls="sofa" aria-selected="false">Automatic Coading Machine</button>
-                </li>
-              </ul>
-              <div class="tab-content product-category-content" id="myTabContent">
-                <div class="tab-pane fade show active" id="featured" role="tabpanel" aria-labelledby="featured-tab">
-                  <div class="row">
-                    <div class="col-12">
-                      <div class="swiper-container swiper-nav swiper-slide-gap product-swiper-pagination product-slider-container">
-                        <div class="swiper-wrapper">
-                          <div class="swiper-slide">
-                            <!--== Start Shop Item ==-->
-                            <div class="product-item">
-                              <div class="inner-content">
-                                <div class="product-thumb">
-                                  <a href="products.php">
-                                    <img class="w-100" src="assets/img/shop/1.png" alt="Image-HasTech">
-                                  </a>
-                                  <div class="product-action d-none">
-                                    <div class="addto-wrap">
-                               
-                                      <a class="add-quick-view" href="javascript:void(0);">
-                                        <span class="icon">
-                                          <i class="bardy bardy-quick-view"></i>
-                                          <i class="hover-icon bardy bardy-quick-view"></i>
-                                        </span>
-                                      </a>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="product-desc">
-                                  <div class="product-info">
-                                    <h4 class="title"><a href="products.php"> New and sale badge product</a></h4>
-                              
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <!--== End Shop Item ==-->
-
-                            <!--== Start Shop Item ==-->
-                            <div class="product-item">
-                              <div class="inner-content">
-                                <div class="product-thumb">
-                                  <a href="products.php">
-                                    <img class="w-100" src="assets/img/shop/2.png" alt="Image-HasTech">
-                                  </a>
-                                  <div class="product-action d-none">
-                                    <div class="addto-wrap">
-                               
-                                      <a class="add-quick-view" href="javascript:void(0);">
-                                        <span class="icon">
-                                          <i class="bardy bardy-quick-view"></i>
-                                          <i class="hover-icon bardy bardy-quick-view"></i>
-                                        </span>
-                                      </a>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="product-desc">
-                                  <div class="product-info">
-                                    <h4 class="title"><a href="products.php"> New badge product</a></h4>
-                                  
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <!--== End Shop Item ==-->
-                          </div>
-                          <div class="swiper-slide">
-                            <!--== Start Shop Item ==-->
-                            <div class="product-item">
-                              <div class="inner-content">
-                                <div class="product-thumb">
-                                  <a href="products.php">
-                                    <img class="w-100" src="assets/img/shop/3.png" alt="Image-HasTech">
-                                  </a>
-                                  <div class="product-action d-none">
-                                    <div class="addto-wrap">
-                               
-                                      <a class="add-quick-view" href="javascript:void(0);">
-                                        <span class="icon">
-                                          <i class="bardy bardy-quick-view"></i>
-                                          <i class="hover-icon bardy bardy-quick-view"></i>
-                                        </span>
-                                      </a>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="product-desc">
-                                  <div class="product-info">
-                                    <h4 class="title"><a href="products.php"> Variable product</a></h4>
-                              
-                                   
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <!--== End Shop Item ==-->
-
-                            <!--== Start Shop Item ==-->
-                            <div class="product-item">
-                              <div class="inner-content">
-                                <div class="product-thumb">
-                                  <a href="products.php">
-                                    <img class="w-100" src="assets/img/shop/4.png" alt="Image-HasTech">
-                                  </a>
-                                  <div class="product-action d-none">
-                                    <div class="addto-wrap">
-                               
-                                      <a class="add-quick-view" href="javascript:void(0);">
-                                        <span class="icon">
-                                          <i class="bardy bardy-quick-view"></i>
-                                          <i class="hover-icon bardy bardy-quick-view"></i>
-                                        </span>
-                                      </a>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="product-desc">
-                                  <div class="product-info">
-                                    <h4 class="title"><a href="products.php"> Soldout product</a></h4>
-                              
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <!--== End Shop Item ==-->
-                          </div>
-                          <div class="swiper-slide">
-                            <!--== Start Shop Item ==-->
-                            <div class="product-item">
-                              <div class="inner-content">
-                                <div class="product-thumb">
-                                  <a href="products.php">
-                                    <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
-                                  </a>
-                                  <div class="product-action d-none">
-                                    <div class="addto-wrap">
-                               
-                                      <a class="add-quick-view" href="javascript:void(0);">
-                                        <span class="icon">
-                                          <i class="bardy bardy-quick-view"></i>
-                                          <i class="hover-icon bardy bardy-quick-view"></i>
-                                        </span>
-                                      </a>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="product-desc">
-                                  <div class="product-info">
-                                    <h4 class="title"><a href="products.php">Simple product</a></h4>
-                              
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <!--== End Shop Item ==-->
-
-                            <!--== Start Shop Item ==-->
-                            <div class="product-item">
-                              <div class="inner-content">
-                                <div class="product-thumb">
-                                  <a href="products.php">
-                                    <img class="w-100" src="assets/img/shop/6.png" alt="Image-HasTech">
-                                  </a>
-                                  <div class="product-action d-none">
-                                    <div class="addto-wrap">
-                               
-                                      <a class="add-quick-view" href="javascript:void(0);">
-                                        <span class="icon">
-                                          <i class="bardy bardy-quick-view"></i>
-                                          <i class="hover-icon bardy bardy-quick-view"></i>
-                                        </span>
-                                      </a>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="product-desc">
-                                  <div class="product-info">
-                                    <h4 class="title"><a href="products.php">Variable with soldout product</a></h4>
-                                 
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <!--== End Shop Item ==-->
-                          </div>
-                          <div class="swiper-slide">
-                            <!--== Start Shop Item ==-->
-                            <div class="product-item">
-                              <div class="inner-content">
-                                <div class="product-thumb">
-                                  <a href="products.php">
-                                    <img class="w-100" src="assets/img/shop/7.png" alt="Image-HasTech">
-                                  </a>
-                                  <div class="product-action d-none">
-                                    <div class="addto-wrap">
-                               
-                                      <a class="add-quick-view" href="javascript:void(0);">
-                                        <span class="icon">
-                                          <i class="bardy bardy-quick-view"></i>
-                                          <i class="hover-icon bardy bardy-quick-view"></i>
-                                        </span>
-                                      </a>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="product-desc">
-                                  <div class="product-info">
-                                    <h4 class="title"><a href="products.php">Sample affiliate product</a></h4>
-                          
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <!--== End Shop Item ==-->
-
-                            <!--== Start Shop Item ==-->
-                            <div class="product-item">
-                              <div class="inner-content">
-                                <div class="product-thumb">
-                                  <a href="products.php">
-                                    <img class="w-100" src="assets/img/shop/8.png" alt="Image-HasTech">
-                                  </a>
-                                  <div class="product-action d-none">
-                                    <div class="addto-wrap">
-                               
-                                      <a class="add-quick-view" href="javascript:void(0);">
-                                        <span class="icon">
-                                          <i class="bardy bardy-quick-view"></i>
-                                          <i class="hover-icon bardy bardy-quick-view"></i>
-                                        </span>
-                                      </a>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="product-desc">
-                                  <div class="product-info">
-                                    <h4 class="title"><a href="products.php">Countdown product</a></h4>
-                            
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <!--== End Shop Item ==-->
-                          </div>
-                          <div class="swiper-slide">
-                            <!--== Start Shop Item ==-->
-                            <div class="product-item">
-                              <div class="inner-content">
-                                <div class="product-thumb">
-                                  <a href="products.php">
-                                    <img class="w-100" src="assets/img/shop/9.png" alt="Image-HasTech">
-                                  </a>
-                                  <div class="product-action d-none">
-                                    <div class="addto-wrap">
-                               
-                                      <a class="add-quick-view" href="javascript:void(0);">
-                                        <span class="icon">
-                                          <i class="bardy bardy-quick-view"></i>
-                                          <i class="hover-icon bardy bardy-quick-view"></i>
-                                        </span>
-                                      </a>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="product-desc">
-                                  <div class="product-info">
-                                    <h4 class="title"><a href="products.php">Without shortcode product</a></h4>
-                             
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <!--== End Shop Item ==-->
-
-                            <!--== Start Shop Item ==-->
-                            <div class="product-item">
-                              <div class="inner-content">
-                                <div class="product-thumb">
-                                  <a href="products.php">
-                                    <img class="w-100" src="assets/img/shop/10.png" alt="Image-HasTech">
-                                  </a>
-                                  <div class="product-action d-none">
-                                    <div class="addto-wrap">
-                               
-                                      <a class="add-quick-view" href="javascript:void(0);">
-                                        <span class="icon">
-                                          <i class="bardy bardy-quick-view"></i>
-                                          <i class="hover-icon bardy bardy-quick-view"></i>
-                                        </span>
-                                      </a>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="product-desc">
-                                  <div class="product-info">
-                                    <h4 class="title"><a href="products.php">Product with video</a></h4>
-                               
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <!--== End Shop Item ==-->
-                          </div>
+            <div class="swiper-container swiper-nav swiper-slide-gap product-slider-container">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <!--== Start Shop Item ==-->
+                  <div class="product-item">
+                    <div class="inner-content">
+                      <div class="product-thumb">
+                        <a href="products.php">
+                          <img class="w-100" src="assets/img/shop/Coding-Machine-High-Speed.png" alt="Image-HasTech">
+                        </a>
+                      </div>
+                      <div class="product-desc">
+                        <div class="product-info">
+                          <h4 class="title"><a href="products.php">Coding Machine High Speed</a></h4>
                         </div>
-
-                        <!--== Add Swiper navigation Buttons ==-->
-                        <div class="swiper-button swiper-button-prev"><i class="fa fa-angle-left"></i></div>
-                        <div class="swiper-button swiper-button-next"><i class="fa fa-angle-right"></i></div>
-
-                        <!--== Add Swiper Pagination Buttons ==-->
-                        <div class="swiper-pagination"></div>
                       </div>
                     </div>
+                    
                   </div>
+                  
+                  <!--== End Shop Item ==-->
                 </div>
-                <div class="tab-pane fade" id="chair" role="tabpanel" aria-labelledby="chair-tab">
-                <div class="row">
-                    <div class="col-sm-6 col-lg-4 col-xl-3">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/1.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
+               
+                  <div class="swiper-slide">
+                    <!--== Start Shop Item ==-->
+                    <div class="product-item">
+                      <div class="inner-content">
+                        <div class="product-thumb">
+                          <a href="products.php">
+                            <img class="w-100" src="assets/img/shop/Pad-printer.png" alt="Image-HasTech">
+                          </a>
                           
                         </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/2.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                        
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-sm-6 col-lg-4 col-xl-3">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/3.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                          
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/4.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                          
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-sm-6 col-lg-4 col-xl-3 d-none d-lg-block">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                         
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/6.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                          
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-sm-6 col-lg-4 col-xl-3 d-none d-xl-block">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/7.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                          
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/8.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                        <div class="product-desc">
+                          <div class="product-info">
+                            <h4 class="title"><a href="products.php">Pad printer</a></h4>
+                      
                             
                           </div>
-                          
                         </div>
                       </div>
-                      <!--== End Shop Item ==-->
                     </div>
+                    <!--== End Shop Item ==-->
                   </div>
-                </div>
-                <div class="tab-pane fade" id="sofa" role="tabpanel" aria-labelledby="sofa-tab">
-                  <div class="row">
-                    <div class="col-sm-6 col-lg-4 col-xl-3">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/1.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
+                  <div class="swiper-slide">
+                    <!--== Start Shop Item ==-->
+                    <div class="product-item">
+                      <div class="inner-content">
+                        <div class="product-thumb">
+                          <a href="products.php">
+                            <img class="w-100" src="assets/img/shop/Manual-Batch-Coding-Machine.png" alt="Image-HasTech">
+                          </a>
                           
                         </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/2.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                        <div class="product-desc">
+                          <div class="product-info">
+                            <h4 class="title"><a href="products.php">Manual Batch Coding Machine</a></h4>
+                      
+                          
                           </div>
-                        
                         </div>
                       </div>
-                      <!--== End Shop Item ==-->
                     </div>
-                    <div class="col-sm-6 col-lg-4 col-xl-3">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/3.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                          
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/4.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                          
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-sm-6 col-lg-4 col-xl-3 d-none d-lg-block">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                         
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/6.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                          
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-sm-6 col-lg-4 col-xl-3 d-none d-xl-block">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/7.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                          
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="products.php">
-                              <img class="w-100" src="assets/img/shop/8.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action d-none">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                            
-                          </div>
-                          
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
+                    <!--== End Shop Item ==-->
                   </div>
-                </div>
+                  <div class="swiper-slide">
+                    <!--== Start Shop Item ==-->
+                    <div class="product-item">
+                      <div class="inner-content">
+                        <div class="product-thumb">
+                          <a href="products.php">
+                            <img class="w-100" src="assets/img/shop/Automatic-Coading-Machine.png" alt="Image-HasTech">
+                          </a>
+                          
+                        </div>
+                        <div class="product-desc">
+                          <div class="product-info">
+                            <h4 class="title"><a href="products.php">Automatic Coading Machine</a></h4>
+                      
+                          
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!--== End Shop Item ==-->
+                  </div>
+                  <div class="swiper-slide">
+                    <!--== Start Shop Item ==-->
+                    <div class="product-item">
+                      <div class="inner-content">
+                        <div class="product-thumb">
+                          <a href="products.php">
+                            <img class="w-100" src="assets/img/shop/Fusing-Machine.png" alt="Image-HasTech">
+                          </a>
+                          
+                        </div>
+                        <div class="product-desc">
+                          <div class="product-info">
+                            <h4 class="title"><a href="products.php">Fusing Machine</a></h4>
+                      
+                          
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!--== End Shop Item ==-->
+                  </div>
+                  <div class="swiper-slide">
+                    <!--== Start Shop Item ==-->
+                    <div class="product-item">
+                      <div class="inner-content">
+                        <div class="product-thumb">
+                          <a href="products.php">
+                            <img class="w-100" src="assets/img/shop/Mug-Fusing-Machine.png" alt="Image-HasTech">
+                          </a>
+                          
+                        </div>
+                        <div class="product-desc">
+                          <div class="product-info">
+                            <h4 class="title"><a href="products.php">Mug Fusing Machine</a></h4>
+                      
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!--== End Shop Item ==-->
+                  </div>
+                  <div class="swiper-slide">
+                    <!--== Start Shop Item ==-->
+                    <div class="product-item">
+                      <div class="inner-content">
+                        <div class="product-thumb">
+                          <a href="products.php">
+                            <img class="w-100" src="assets/img/shop/Cling-Wrapping.png" alt="Image-HasTech">
+                          </a>
+                          
+                        </div>
+                        <div class="product-desc">
+                          <div class="product-info">
+                            <h4 class="title"><a href="products.php">Cling Wrapping </a></h4>
+                      
+                          
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!--== End Shop Item ==-->
+                  </div>
+                  <div class="swiper-slide">
+                    <!--== Start Shop Item ==-->
+                    <div class="product-item">
+                      <div class="inner-content">
+                        <div class="product-thumb">
+                          <a href="products.php">
+                            <img class="w-100" src="assets/img/shop/Bag-Closer-Machine.png" alt="Image-HasTech">
+                          </a>
+                          
+                        </div>
+                        <div class="product-desc">
+                          <div class="product-info">
+                            <h4 class="title"><a href="products.php">Bag Closer Machine</a></h4>
+                      
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!--== End Shop Item ==-->
+                  </div>
+                  <div class="swiper-slide">
+                    <!--== Start Shop Item ==-->
+                    <div class="product-item">
+                      <div class="inner-content">
+                        <div class="product-thumb">
+                          <a href="products.php">
+                            <img class="w-100" src="assets/img/shop/Hight-Speed-Water-Pouch.png" alt="Image-HasTech">
+                          </a>
+                          
+                        </div>
+                        <div class="product-desc">
+                          <div class="product-info">
+                            <h4 class="title"><a href="products.php">Hight Speed Water Pouch </a></h4>
+                      
+                          
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!--== End Shop Item ==-->
+                  </div>
+                  <div class="swiper-slide">
+                    <!--== Start Shop Item ==-->
+                    <div class="product-item">
+                      <div class="inner-content">
+                        <div class="product-thumb">
+                          <a href="products.php">
+                            <img class="w-100" src="assets/img/shop/Snack-Powder.png" alt="Image-HasTech">
+                          </a>
+                          
+                        </div>
+                        <div class="product-desc">
+                          <div class="product-info">
+                            <h4 class="title"><a href="products.php">Snack & Powder</a></h4>
+                      
+                          
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!--== End Shop Item ==-->
+                  </div>
+                
               </div>
+
+              <!--== Add Swiper navigation Buttons ==-->
+              <div class="swiper-button swiper-button-prev"><i class="fa fa-angle-left"></i></div>
+              <div class="swiper-button swiper-button-next"><i class="fa fa-angle-right"></i></div>
             </div>
           </div>
         </div>

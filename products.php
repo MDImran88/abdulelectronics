@@ -70,46 +70,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/1.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/600mm-Outer-Vaccum-Packing-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">1. New and sale badge product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 110.00 </span>
-                                <span class="price-old">Tk 130.00</span>
-                              </div>
+                              <h4 class="title">600mm Outer Vaccum Packing Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -121,46 +87,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/11.jpg" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Air-Flushing-Band-Sealer-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">10. This is the large title for testing large title and there is an image for testing</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 19.00</span>
-                                <span class="price-old">Tk 21.00</span>
-                              </div>
+                              <h4 class="title">Air-Flushing-Band-Sealer-Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -172,45 +104,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/10.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Automatic-Batch-Codig-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">11. Product with video</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 39.00</span>
-                              </div>
+                              <h4 class="title">Automatic-Batch-Codig-Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -222,45 +121,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/2.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Automatic-Batch-Codig-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">2. New badge product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 80.00</span>
-                              </div>
+                              <h4 class="title">Automatic-Batch-Codig-Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -272,46 +138,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/3.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Automatic-Weighing-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">3. Variable product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 40.00</span>
-                                <span class="price-old">Tk 85.00</span>
-                              </div>
+                              <h4 class="title">Automatic-Weighing-Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -323,46 +155,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/4.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Automatic-Weighing-Machine-10gram-999gram.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">4. Soldout product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 19.00</span>
-                                <span class="price-old">Tk 29.00</span>
-                              </div>
+                              <h4 class="title">Automatic-Weighing-Machine-10gram-999gram</h4>
                             </div>
                           </div>
                         </div>
@@ -374,45 +172,30 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Bag-Closer-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">5. Simple product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 50.00</span>
-                              </div>
+                              <h4 class="title">Bag-Closer-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Bowl-Sealer-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Bowl-Sealer-Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -424,46 +207,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/6.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Carton-Tapping-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">6. Variable with soldout product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 55.00 </span>
-                                <span class="price-old">Tk 75.00</span>
-                              </div>
+                              <h4 class="title">Carton-Tapping-Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -475,45 +224,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/7.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Double-Chamber-Vaccum-Packing-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">7. Sample affiliate product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 29.00 </span>
-                              </div>
+                              <h4 class="title">Double-Chamber-Vaccum-Packing-Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -525,47 +241,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/8.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
-                            <div class="ht-countdown ht-countdown-style" data-date="4/24/2022"></div>
+                              <img class="w-100" src="assets/img/shop/Double-Cup-Sealer-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">8. Countdown product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 39.00 </span>
-                                <span class="price-old">Tk 60.00</span>
-                              </div>
+                              <h4 class="title">Double-Cup-Sealer-Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -577,45 +258,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/9.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Fully-Automatic-L-Sealer-Shrink-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">9. Without shortcode product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 79.00 </span>
-                              </div>
+                              <h4 class="title">Fully-Automatic-L-Sealer-Shrink-Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -627,45 +275,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/12.jpg" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Fully-Automatic-Paper-Cup-Making-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">Demo product title</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 29.00 </span>
-                              </div>
+                              <h4 class="title">Fully-Automatic-Paper-Cup-Making-Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -677,45 +292,12 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Fully-Automatic-Powder-Packing-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">Demo product title</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 50.00 </span>
-                              </div>
+                              <h4 class="title">Fully-Automatic-Powder-Packing-Machine</h4>
                             </div>
                           </div>
                         </div>
@@ -727,915 +309,548 @@
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/13.jpg" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Gnaule-1gram-100gram-Automatic-Pouch-Packing-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">Demo product title</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 80.00 </span>
-                              </div>
+                              <h4 class="title">Gnaule-1gram-100gram-Automatic-Pouch-Packing-Machine</h4>
                             </div>
                           </div>
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
                     </div>
-                    <div class="col-sm-6 col-lg-4 col-xl-3">
+                    <div class="col-md-6 col-lg-4 col-xl-3">
                       <!--== Start Shop Item ==-->
                       <div class="product-item">
                         <div class="inner-content">
                           <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/14.jpg" alt="Image-HasTech">
-                            </a>
-                            <div class="product-action">
-                              <div class="addto-wrap">
-                                <a class="add-cart" href="shop-cart.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-shopping-cart"></i>
-                                    <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                  </span>
-                                </a>
-                                <a class="add-wishlist" href="wishlist.html">
-                                  <span class="icon">
-                                    <i class="bardy bardy-wishlist"></i>
-                                    <i class="hover-icon bardy bardy-wishlist"></i>
-                                  </span>
-                                </a>
-                                <a class="add-quick-view" href="javascript:void(0);">
-                                  <span class="icon">
-                                    <i class="bardy bardy-quick-view"></i>
-                                    <i class="hover-icon bardy bardy-quick-view"></i>
-                                  </span>
-                                </a>
-                              </div>
-                            </div>
+                              <img class="w-100" src="assets/img/shop/Hand-Held-Induction-Sealer-Machine.jpg" alt="Image-HasTech">
+                         
                           </div>
                           <div class="product-desc">
                             <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">Demo product title</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 19.00 </span>
-                                <span class="price-old">Tk 21.00</span>
-                              </div>
+                              <h4 class="title">Hand-Held-Induction-Sealer-Machine</h4>
                             </div>
                           </div>
                         </div>
                       </div>
                       <!--== End Shop Item ==-->
                     </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Handy-Hotbar-Sealer-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Handy-Hotbar-Sealer-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Induction-Sealer-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Induction-Sealer-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Inkjet-Coding-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Inkjet-Coding-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Jar-Sealer-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Jar-Sealer-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Manual-Labelling-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Manual-Labelling-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Manual-Ribbio-Coding-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Manual-Ribbio-Coding-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Mini-Coding-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Mini-Coding-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Motorize-Ribbion-Coding-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Motorize-Ribbion-Coding-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/MY-380-High-Speed-Coding-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">MY-380-High-Speed-Coding-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Online-Hot-Coding-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Online-Hot-Coding-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Online-Ribbion-Coding-Mchine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Online-Ribbion-Coding-Mchine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Pad-Printer-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Pad-Printer-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Pnematic-Paste-Filler-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Pnematic-Paste-Filler-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Portable-Vaccum-Packing-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Portable-Vaccum-Packing-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+
+
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Rectangle-Tray-Sealer-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Rectangle-Tray-Sealer-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Shrink-Tunnel-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Shrink-Tunnel-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Single-Chamber-Vaccum-Packing-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Single-Chamber-Vaccum-Packing-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Single-Nozzle-Liquid-Filler-Machine.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Single-Nozzle-Liquid-Filler-Machine</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                        <div class="inner-content">
+                          <div class="product-thumb">
+                              <img class="w-100" src="assets/img/shop/Strapping-Machie.jpg" alt="Image-HasTech">
+                         
+                          </div>
+                          <div class="product-desc">
+                            <div class="product-info">
+                              <h4 class="title">Strapping-Machie</h4>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                     <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                              <div class="inner-content">
+                                <div class="product-thumb">
+                                    <img class="w-100" src="assets/img/shop/1.png" alt="Image-HasTech">
+                                  
+                                </div>
+                                <div class="product-desc">
+                                  <div class="product-info">
+                                    <h4 class="title"> New and sale badge product</h4>
+                              
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                              <div class="inner-content">
+                                <div class="product-thumb">
+                                  
+                                    <img class="w-100" src="assets/img/shop/2.png" alt="Image-HasTech">
+                                  </a>
+                                  
+                                </div>
+                                <div class="product-desc">
+                                  <div class="product-info">
+                                    <h4 class="title"> New badge product</h4>
+                                  
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                              <div class="inner-content">
+                                <div class="product-thumb">
+                                  
+                                    <img class="w-100" src="assets/img/shop/3.png" alt="Image-HasTech">
+                                  </a>
+                                  
+                                </div>
+                                <div class="product-desc">
+                                  <div class="product-info">
+                                    <h4 class="title"> Variable product</h4>
+                              
+                                   
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                              <div class="inner-content">
+                                <div class="product-thumb">
+                                  
+                                    <img class="w-100" src="assets/img/shop/4.png" alt="Image-HasTech">
+                                  </a>
+                                  
+                                </div>
+                                <div class="product-desc">
+                                  <div class="product-info">
+                                    <h4 class="title"> Soldout product</h4>
+                              
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                              <div class="inner-content">
+                                <div class="product-thumb">
+                                  
+                                    <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
+                                  </a>
+                                  
+                                </div>
+                                <div class="product-desc">
+                                  <div class="product-info">
+                                    <h4 class="title">Simple product</h4>
+                              
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                              <div class="inner-content">
+                                <div class="product-thumb">
+                                  
+                                    <img class="w-100" src="assets/img/shop/6.png" alt="Image-HasTech">
+                                  </a>
+                                  
+                                </div>
+                                <div class="product-desc">
+                                  <div class="product-info">
+                                    <h4 class="title">Variable with soldout product</h4>
+                                 
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                              <div class="inner-content">
+                                <div class="product-thumb">
+                                  
+                                    <img class="w-100" src="assets/img/shop/7.png" alt="Image-HasTech">
+                                  </a>
+                                  
+                                </div>
+                                <div class="product-desc">
+                                  <div class="product-info">
+                                    <h4 class="title">Sample affiliate product</h4>
+                          
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                              <div class="inner-content">
+                                <div class="product-thumb">
+                                  
+                                    <img class="w-100" src="assets/img/shop/8.png" alt="Image-HasTech">
+                                  </a>
+                                  
+                                </div>
+                                <div class="product-desc">
+                                  <div class="product-info">
+                                    <h4 class="title">Countdown product</h4>
+                            
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!--== Start Shop Item ==-->
+                      <div class="product-item">
+                              <div class="inner-content">
+                                <div class="product-thumb">
+                                  
+                                    <img class="w-100" src="assets/img/shop/9.png" alt="Image-HasTech">
+                                  </a>
+                                  
+                                </div>
+                                <div class="product-desc">
+                                  <div class="product-info">
+                                    <h4 class="title">Without shortcode product</h4>
+                             
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                      <!--== End Shop Item ==-->
+                    </div>
+                   
+
                   </div>
-                  <!--== Start Pagination Wrap ==-->
-                  <div class="row">
-                    <div class="col-12">
-                      <div class="pagination-content-wrap">
-                        <nav class="pagination-nav">
-                          <ul class="pagination justify-content-center">
-                            <li><a class="disabled active prev" href="#/"><i class="fa fa-angle-left"></i>Back</a></li>
-                            <li><a class="disabled" href="#/">1</a></li>
-                            <li><a href="#/">2</a></li>
-                            <li><a href="#/">3</a></li>
-                            <li><a class="next" href="#/">Next <i class="fa fa-angle-right"></i></a></li>
-                          </ul>
-                        </nav>
-                      </div>
-                    </div>
-                  </div>
+                 
                   <!--== End Pagination Wrap ==-->
                 </div>
-                <div class="tab-pane fade" id="nav-list" role="tabpanel" aria-labelledby="nav-list-tab">
-                  <div class="row">
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/1.png" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">1. New and sale badge product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 110.00 </span>
-                                <span class="price-old">Tk 130.00</span>
-                              </div>
-                              <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/11.jpg" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">10. This is the large title for testing large title and there is an image for testing</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 19.00 </span>
-                                <span class="price-old">Tk 21.00</span>
-                              </div>
-                              <p>A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal...</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/10.png" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">11. Product with video</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 39.00 </span>
-                              </div>
-                              <p>As opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for...</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/2.png" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">2. New badge product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 80.00 </span>
-                              </div>
-                              <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/3.png" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">3. Variable product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 40.00 </span>
-                                <span class="price-old">Tk 85.00</span>
-                              </div>
-                              <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/4.png" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">4. Soldout product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 19.00 </span>
-                                <span class="price-old">Tk 29.00</span>
-                              </div>
-                              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">5. Simple product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 50.00 </span>
-                              </div>
-                              <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/6.png" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">6. Variable with soldout product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 55.00 </span>
-                                <span class="price-old">Tk 75.00</span>
-                              </div>
-                              <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/7.png" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">7. Sample affiliate product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 29.00 </span>
-                              </div>
-                              <p>I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/8.png" alt="Image-HasTech">
-                            </a>
-                            <div class="ht-countdown ht-countdown-style" data-date="4/24/2022"></div>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">8. Countdown product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 39.00 </span>
-                                <span class="price-old">Tk 60.00</span>
-                              </div>
-                              <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/9.png" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">9. Without shortcode product</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 79.00 </span>
-                              </div>
-                              <p>we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that...</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/12.jpg" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">Demo product title</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 29.00 </span>
-                              </div>
-                              <p>I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/5.png" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">Demo product title</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 50.00 </span>
-                              </div>
-                              <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/13.jpg" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">Demo product title</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 80.00 </span>
-                              </div>
-                              <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                    <div class="col-12">
-                      <!--== Start Shop Item ==-->
-                      <div class="product-item product-item-list">
-                        <div class="inner-content">
-                          <div class="product-thumb">
-                            <a href="shop-single.html">
-                              <img class="w-100" src="assets/img/shop/14.jpg" alt="Image-HasTech">
-                            </a>
-                          </div>
-                          <div class="product-desc">
-                            <div class="product-info">
-                              <h4 class="title"><a href="shop-single.html">Demo product title</a></h4>
-                              <div class="star-content">
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                                <i class="fa fa-star-o"></i>
-                              </div>
-                              <div class="prices">
-                                <span class="price">Tk 19.00 </span>
-                                <span class="price-old">Tk 21.00</span>
-                              </div>
-                              <p>A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal...</p>
-                              <div class="product-action">
-                                <div class="addto-wrap">
-                                  <a class="add-cart" href="shop-cart.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-shopping-cart"></i>
-                                      <i class="hover-icon bardy bardy-shopping-cart"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-wishlist" href="wishlist.html">
-                                    <span class="icon">
-                                      <i class="bardy bardy-wishlist"></i>
-                                      <i class="hover-icon bardy bardy-wishlist"></i>
-                                    </span>
-                                  </a>
-                                  <a class="add-quick-view" href="javascript:void(0);">
-                                    <span class="icon">
-                                      <i class="bardy bardy-quick-view"></i>
-                                      <i class="hover-icon bardy bardy-quick-view"></i>
-                                    </span>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--== End Shop Item ==-->
-                    </div>
-                  </div>
-                  <!--== Start Pagination Wrap ==-->
-                  <div class="row">
-                    <div class="col-12">
-                      <div class="pagination-content-wrap">
-                        <nav class="pagination-nav">
-                          <ul class="pagination justify-content-center">
-                            <li><a class="disabled active prev" href="#/"><i class="fa fa-angle-left"></i>Back</a></li>
-                            <li><a class="disabled" href="#/">1</a></li>
-                            <li><a href="#/">2</a></li>
-                            <li><a href="#/">3</a></li>
-                            <li><a class="next" href="#/">Next <i class="fa fa-angle-right"></i></a></li>
-                          </ul>
-                        </nav>
-                      </div>
-                    </div>
-                  </div>
-                  <!--== End Pagination Wrap ==-->
-                </div>
+                
               </div>
             </div>
           </div>
