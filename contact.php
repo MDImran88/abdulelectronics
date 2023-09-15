@@ -44,7 +44,7 @@
                  </p>
                  <p>
                   Service Center:
-                  Shop No. 1442, Street Chulhe Wali, Pan Mandi, Sadar Bazar, Delhi - 110006
+                  Shop No. 1416, Street Chulhe Wali, Pan Mandi, Sadar Bazar, Delhi - 110006
                  </p>
                 </div>
               </div>
