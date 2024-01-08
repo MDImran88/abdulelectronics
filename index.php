@@ -656,7 +656,7 @@
     <section class="feature-area">
         <div class="feature-container">
             <div class="row no-gutter">
-                <div class="feature-col col-xl-3 col-md-6 col-12">
+                <div class="feature-col col-xl-3 col-md-6 col-12 d-none">
                     <div class="feature-icon-box">
                         <div class="inner-content">
                             <div class="icon-box" data-bg-img="assets/img/icons/1.jpg"></div>
@@ -678,7 +678,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="feature-col col-xl-3 col-md-6 col-12">
+                <div class="feature-col col-xl-3 col-md-6 col-12 d-none">
                     <div class="feature-icon-box">
                         <div class="inner-content">
                             <div class="icon-box" data-bg-img="assets/img/icons/1.jpg"></div>
