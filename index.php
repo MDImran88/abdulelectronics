@@ -661,8 +661,8 @@
                         <div class="inner-content">
                             <div class="icon-box" data-bg-img="assets/img/icons/1.jpg"></div>
                             <div class="content">
-                                <h3 class="title">Free home delivery</h3>
-                                <p>Provide free home delivery for all product over $100</p>
+                                <h3 class="title">Conveyance </h3>
+                                <p>We are provide delivery for all product overall as per far charges*</p>
                             </div>
                         </div>
                     </div>
@@ -683,8 +683,8 @@
                         <div class="inner-content">
                             <div class="icon-box" data-bg-img="assets/img/icons/1.jpg"></div>
                             <div class="content">
-                                <h3 class="title">3 Days Return</h3>
-                                <p>Return product within 3 days for any product you buy</p>
+                                <h3 class="title">Return</h3>
+                                <p>Return product within 10 days for any product you buy as per condition</p>
                             </div>
                         </div>
                     </div>
